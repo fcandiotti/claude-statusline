@@ -2,6 +2,8 @@
 
 Uma barra de status que mostra conta, modelo, esforço, pasta, branch, uso de contexto, limites de 5h/7d e custo da sessão — e que **se ajusta à largura do seu terminal**: uma linha só quando cabe, duas quando não cabe. Nada é truncado nem some na borda.
 
+![Statusline com cada segmento identificado](docs/statusline.png)
+
 ```
 # terminal largo
 ● trabalho │ Opus 5 (1M context) │ high ⚡ │ 📁 meu-projeto ⎇ main* │ 🧠 47K ████░░░░░░ 31% (69% livre) │ 5h █████░░░░░ 42% ↻ 2h10m │ 7d 28% │ $0.87
